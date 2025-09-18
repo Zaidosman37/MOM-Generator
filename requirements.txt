@@ -1,6 +1,6 @@
 google.generativeai
 streamlit
-opencv-python
+opencv-python headless
 python-docx
 Pillow
 pypdf
